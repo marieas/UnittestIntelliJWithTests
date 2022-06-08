@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonTester" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-06-08T12:41:42" hostname="MARIE-PC" time="0.363">
+  <properties/>
+  <testcase name="TestStomackExists()" classname="PersonTester" time="0.318"/>
+  <testcase name="TestPersonIsBornCreatesOrgans()" classname="PersonTester" time="0.005"/>
+  <testcase name="TestPersonNotBornDoesNotContainOrgans()" classname="PersonTester" time="0.004"/>
+  <testcase name="TestNoStomack()" classname="PersonTester" time="0.002"/>
+  <testcase name="TestNameIsEmpty()" classname="PersonTester" time="0.004"/>
+  <testcase name="TestNameIsNotEmpty()" classname="PersonTester" time="0.003"/>
+  <testcase name="TestFoodIsInStomack()" classname="PersonTester" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
